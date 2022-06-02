@@ -1,0 +1,17 @@
+1 Diferença entre var, let e const:
+A principal diferença é o ESCOPO onde elas são declaradas.
+Var = variável do tipo global, pode ser usada dentro e fora das funções.
+Let = variável só pode ser usada dentro do seu escopo (função).
+Const = variável que nçao pode ter seu conteúdo alterado.
+
+2 É verdade que o uso de parâmetros em funções é obrigatório?
+Não. Podemos criar funções sem parametro:
+    function SemParametro (){
+        .....
+        .....
+        .....
+    }
+
+3 inserir um arquivo em js no documento HTML:
+
+c) <script src=" NomeDoArquivo.js"></script>

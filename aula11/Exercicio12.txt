@@ -1,0 +1,11 @@
+1 O que o manipulador ou função replace() efetua em uma string?
+Substitui um caracter por outro em uma posição indicada
+
+2 O que o manipulador ou função sort() efetua em um array?
+Faz a ordenação crescente do conteudo do array
+
+3 É correto dizer que o JS é uma linguagem orientada a objetos?
+Não, ela apenas tem suporte a objetos.
+
+4 Como podemos definir o operador new?
+New é uma palavra reservada que é usada para criar objetos herdando caracteristicas de outro objeto ou função.

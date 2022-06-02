@@ -1,0 +1,11 @@
+1. Exemplo de boa pratica CamelCase:
+var nomeCompleto = João Carlos de Souza"
+
+2. Por padrão, qual tipo será atribuido a var quando não recebe nenhum valor
+R.: tipo undefined
+
+3 Quais as duas categorias de tipo de dados do JS?
+R: Primitivo e não primitivo.
+
+4. É verdade que o JS é uma linguagem server-side?
+R.: Não, o JS é uma lingaugem client-side, onde é interpretado e executado na máquina do usuário.
