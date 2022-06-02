@@ -1,0 +1,6 @@
+O Que são variáveis em uma linguagem de Programção?
+R.: Variáveis são espaços alocados na memória para armazenamento ou não de dados.
+
+Dê um exemplo de tipo de dado e o que este tipo irá representar.
+R.: Tipo de dado caractere ou string, representa um conjunto de dados alfanuméricos, tipo Nome (João, Maria,
+ou Endereço (Rua Antonio lima 24) ou email (fulano@silva.com.br).
